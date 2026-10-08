@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/13959968-4278-4131-8fda-060db3c1b99a - pom framework image
+
 \# OpenCart UI Automation
 
 
@@ -333,4 +337,7 @@ AI tools were used as development assistance for:
 
 
 The final implementation and execution decisions were reviewed against the actual application behavior.
+
+
+
 
